@@ -1,0 +1,20 @@
+{
+  "name": "minerva-realm",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "jade": "*",
+    "express": "~4.9.x"
+  },
+  "engines": {
+    "node": "6.0.0"
+  },
+  "repository": {
+  },
+  "keywords": [
+  ],
+  "license": "MIT"
+}
