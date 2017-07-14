@@ -10,7 +10,7 @@
     "express": "~4.9.x"
   },
   "engines": {
-    "node": "6.0.0"
+    "node": "6.11.1"
   },
   "repository": {
   },
