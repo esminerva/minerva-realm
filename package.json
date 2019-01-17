@@ -6,15 +6,13 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "jade": "*",
-    "express": "~4.9.x"
+    "express": "latest",
+    "pug": "latest"
   },
   "engines": {
-    "node": "6.11.1"
+    "node": "10"
   },
-  "repository": {
-  },
-  "keywords": [
-  ],
+  "repository": {},
+  "keywords": [],
   "license": "MIT"
 }
